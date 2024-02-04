@@ -12,7 +12,7 @@ function Greeting() {
 
   return (
     <div className="greeting">
-      <h1>Random Greeting:</h1>
+      <h1>Random Greetingsss:</h1>
       <p>{greeting}</p>
     </div>
   );
