@@ -71,7 +71,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/Booze33/hello-react-front-end.git
+  git clone [https://github.com/Booze33/hello-react-front-end.git](https://github.com/stino-x/ROR-API-FRONTEND.git)
 ```
 
 ### Install
